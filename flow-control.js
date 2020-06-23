@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-  return "You are a teenager"
+   return 13 <= age <= 19 ? "You are a teenager!" : "You are a kid"
 }
 
 function teenager(age) {
